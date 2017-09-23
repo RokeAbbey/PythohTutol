@@ -1,0 +1,7 @@
+#coding=utf-8
+class Student(Object):
+    def __init__(self, name, scores):
+        self.name = name
+        self.scores = scores
+
+
